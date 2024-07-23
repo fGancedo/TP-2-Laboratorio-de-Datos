@@ -1,0 +1,1 @@
+En este trabajo se buscó hacer análisis de datos sobre una base de datos de futbolistas, para encontrar la forma de clasificar por posición y hacer recomendaciones en base a caracteristicas usando machine learning y redes neuronales
